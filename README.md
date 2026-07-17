@@ -1,6 +1,6 @@
 # Smart Mosquito Trap
 
-"""Overview
+Overview
 
 Smart Mosquito Trap is a social innovation project formally titled "Development of a Low-Power Light-and-Fan Mosquito Trap with Integrated Risk Index and Data Logging System for Dengue Prevention." The project aims to contribute to dengue prevention in the Philippines by providing an energy-efficient and intelligent mosquito trapping system.
 
@@ -10,4 +10,4 @@ To improve energy efficiency, the system integrates a DHT11 temperature and humi
 
 The project also features a dual data logging system. Sensor readings and mosquito counts are transmitted to a Blynk IoT dashboard whenever an internet connection is available. In the absence of connectivity, the system continues operating normally by storing all collected data locally on a microSD card, ensuring that no information is lost and can be reviewed later.
 
-Note: This repository contains the firmware developed for a low-fidelity prototype. The code is intended to demonstrate the system's core functionalities, including mosquito detection, adaptive fan control, environmental monitoring, local data logging, and IoT connectivity. It does not represent the complete implementation of all planned features described in the study."""
+Note: This repository contains the firmware developed for a low-fidelity prototype. The code is intended to demonstrate the system's core functionalities, including mosquito detection, adaptive fan control, environmental monitoring, local data logging, and IoT connectivity. It does not represent the complete implementation of all planned features described in the study.
